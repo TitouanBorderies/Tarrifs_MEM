@@ -1,2 +1,2 @@
-# Tarrifs_MEM
+# Tariffs_MEM
 Macroeconomic modelling project 
